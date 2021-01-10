@@ -1,1 +1,1 @@
-# DreamDB homepage
+DreamDB is a relational database backend designed for high concurrency, multi user transaction processing and ease of deployment.
